@@ -2,7 +2,6 @@ console.log("başladı");
 
 setTimeout(function () {
     console.log("3 saniyelik işlem bbitti");
-
 }, 3000);
 
 
